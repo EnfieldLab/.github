@@ -1,0 +1,3 @@
+# Enfield Lab
+
+The [Enfield lab](https://www.bccrc.ca/dept/io/dept/io/labs/enfield-lab) was established in 2024 and researches the immune response to lung tumours. We focus on profiling clinical samples with technologies that retain spatial information in order to tie multicellular organization to phenotypic and clinical outcomes. Our goal is to integrate spatial tumour microenvironment data with various omics to create a more complete picture of how and why the body's own immune defenses are responding the way they do, and how that information can be harnessed for clinical applications. Stay tuned...
